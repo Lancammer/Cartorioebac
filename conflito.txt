@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 olá tudo bem?
+=======
+olá, tudo bem?
+>>>>>>> 73b156a (alterando o conteudo de conflito.txt)
